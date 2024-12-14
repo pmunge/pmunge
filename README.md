@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a note taking website<br>I need help in completing my gallery website<br>I am currently learning Django rest<br>Ask me anything about CSS3, bootstrap, Django and HTML5<br>
+I am currently working on a finance website that records contributions done by of a self help group for different events <br>I need help in completing my gallery website<br>I am currently learning Django rest<br>Ask me anything about CSS3, bootstrap, Django and HTML5<br>
 
 
 ## 🌐 Socials:
